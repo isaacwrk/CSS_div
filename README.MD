@@ -4,9 +4,10 @@
 
 **CSS#1**
 *apenas foi "construido" containers que se organizam dentro da div pai*
+![image](https://github.com/isaacwrk/CSS_div/blob/master/CSS_initialmodels/examples/css1.png)
 
 
 **CSS#2**
 *3 exemplos de containers e alinhamentos dentro do CSS em estilo de cards.*
  *Primeiro  exemplo apenas com o título, Segundo exemplo com opção de botão feita com a tag <a> e finalmente um card completo com texto e efeito fora do container.*
- 
+![image](https://github.com/isaacwrk/CSS_div/blob/master/CSS_initialmodels/examples/css2.png) 
